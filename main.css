@@ -123,6 +123,9 @@ header{
 
 @media(min-width:50rem){  /* Desktop */
     header{padding-inline: 0;}
+    .card{
+        margin-bottom: 0;
+    }
     .cards{
         display: grid;
         grid-template-areas: 
